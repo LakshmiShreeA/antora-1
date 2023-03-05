@@ -1,4 +1,5 @@
 = Inline Text Formatting
+:page-layout: default1
 :example-caption!:
 
 You can add the following inline styles to your content:
